@@ -1,0 +1,150 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 1048576 bytes for AllocateHeap
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
+#     placed in the first 4GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (memory/allocation.inline.hpp:61), pid=7732, tid=0x0000000000001e6c
+#
+# JRE version:  (8.0_201-b09) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.201-b09 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000002a0e000):  JavaThread "Unknown thread" [_thread_in_vm, id=7788, stack(0x0000000002830000,0x0000000002930000)]
+
+Stack: [0x0000000002830000,0x0000000002930000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000002a0e000 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=7788, stack(0x0000000002830000,0x0000000002930000)]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+heap address: 0x0000000082a00000, size: 2006 MB, Compressed Oops mode: 32-bit
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 3
+Compressed class space size: 1073741824 Address: 0x0000000100000000
+
+Heap:
+ PSYoungGen      total 37888K, used 655K [0x00000000d6380000, 0x00000000d8d80000, 0x0000000100000000)
+  eden space 32768K, 2% used [0x00000000d6380000,0x00000000d6423d80,0x00000000d8380000)
+  from space 5120K, 0% used [0x00000000d8880000,0x00000000d8880000,0x00000000d8d80000)
+  to   space 5120K, 0% used [0x00000000d8380000,0x00000000d8380000,0x00000000d8880000)
+ ParOldGen       total 86016K, used 0K [0x0000000082a00000, 0x0000000087e00000, 0x00000000d6380000)
+  object space 86016K, 0% used [0x0000000082a00000,0x0000000082a00000,0x0000000087e00000)
+ Metaspace       used 751K, capacity 4480K, committed 4480K, reserved 1056768K
+  class space    used 76K, capacity 384K, committed 384K, reserved 1048576K
+
+Card table byte_map: [0x0000000011ed0000,0x00000000122c0000] byte_map_base: 0x0000000011abb000
+
+Marking Bits: (ParMarkBitMap*) 0x0000000071bb4ce0
+ Begin Bits: [0x0000000012d60000, 0x0000000014cb8000)
+ End Bits:   [0x0000000014cb8000, 0x0000000016c10000)
+
+Polling page: 0x0000000000fe0000
+
+CodeCache: size=245760Kb used=328Kb max_used=328Kb free=245431Kb
+ bounds [0x0000000002b10000, 0x0000000002d80000, 0x0000000011b10000]
+ total_blobs=58 nmethods=0 adapters=38
+ compilation: enabled
+
+Compilation events (0 events):
+No events
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.040 loading class java/lang/Short
+Event: 0.040 loading class java/lang/Short done
+Event: 0.040 loading class java/lang/Integer
+Event: 0.040 loading class java/lang/Integer done
+Event: 0.040 loading class java/lang/Long
+Event: 0.040 loading class java/lang/Long done
+Event: 0.041 loading class java/lang/NullPointerException
+Event: 0.041 loading class java/lang/NullPointerException done
+Event: 0.041 loading class java/lang/ArithmeticException
+Event: 0.041 loading class java/lang/ArithmeticException done
+
+
+Dynamic libraries:
+0x00007ff750950000 - 0x00007ff750987000 	C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe
+0x00007ffe5f0f0000 - 0x00007ffe5f2e5000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffe5ee60000 - 0x00007ffe5ef1d000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ffe5ca70000 - 0x00007ffe5cd39000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ffe5ecc0000 - 0x00007ffe5ed6c000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ffe5d690000 - 0x00007ffe5d72e000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ffe5d160000 - 0x00007ffe5d1fb000 	C:\WINDOWS\System32\sechost.dll
+0x00007ffe5e4a0000 - 0x00007ffe5e5ca000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ffe5e830000 - 0x00007ffe5e9d0000 	C:\WINDOWS\System32\USER32.dll
+0x00007ffe5cfb0000 - 0x00007ffe5cfd2000 	C:\WINDOWS\System32\win32u.dll
+0x00007ffe5dc60000 - 0x00007ffe5dc8a000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ffe5cea0000 - 0x00007ffe5cfab000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ffe5c830000 - 0x00007ffe5c8cd000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ffe5cfe0000 - 0x00007ffe5d0e0000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ffe458c0000 - 0x00007ffe45b5a000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\COMCTL32.dll
+0x00007ffe5ea30000 - 0x00007ffe5ea60000 	C:\WINDOWS\System32\IMM32.DLL
+0x0000000071dd0000 - 0x0000000071ea1000 	C:\Program Files\Java\jre1.8.0_201\bin\msvcr100.dll
+0x0000000071390000 - 0x0000000071c34000 	C:\Program Files\Java\jre1.8.0_201\bin\server\jvm.dll
+0x00007ffe5d7b0000 - 0x00007ffe5d7b8000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ffe45d10000 - 0x00007ffe45d37000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffe3d440000 - 0x00007ffe3d449000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffe5eb30000 - 0x00007ffe5eb9b000 	C:\WINDOWS\System32\WS2_32.dll
+0x00007ffe51bf0000 - 0x00007ffe51bfa000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffe58280000 - 0x00007ffe5828f000 	C:\Program Files\Java\jre1.8.0_201\bin\verify.dll
+0x00007ffe53200000 - 0x00007ffe53229000 	C:\Program Files\Java\jre1.8.0_201\bin\java.dll
+0x00007ffe56150000 - 0x00007ffe56166000 	C:\Program Files\Java\jre1.8.0_201\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dfile.encoding=Cp1252 
+java_command: com.app.Main
+java_class_path (initial): C:\Users\SHREYA\Desktop\Shreyanshi_Revature\Project_1\OnlineShoppingApp\target\classes;C:\Users\SHREYA\.m2\repository\mysql\mysql-connector-java\8.0.18\mysql-connector-java-8.0.18.jar;C:\Users\SHREYA\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\SHREYA\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_201
+PATH=C:/Program Files/Java/jre1.8.0_201/bin/server;C:/Program Files/Java/jre1.8.0_201/bin;C:/Program Files/Java/jre1.8.0_201/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk1.8.0_201\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Android;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_201\bin\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\SHREYA\AppData\Local\Microsoft\WindowsApps;C:\Users\SHREYA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SHREYA\AppData\Roaming\npm;C:\Users\SHREYA\AppData\Local\GitHubDesktop\bin;C:\ProgramData\SHREYA\GitHubDesktop\bin;C:\Users\SHREYA\Desktop\sts-4.6.2.RELEASE;
+USERNAME=SHREYA
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=
+
+
+
+OS: Windows 10.0 , 64 bit Build 19041
+
+
