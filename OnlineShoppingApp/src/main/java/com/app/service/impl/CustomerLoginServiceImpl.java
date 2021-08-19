@@ -90,4 +90,13 @@ public class CustomerLoginServiceImpl implements CustomerService{
 	
 
 	}
+
+	@Override
+	public boolean registerCustomer(Customer customer) throws BussinessException {
+		if (customer!=null) {
+			return getCustomLoginDao().registerCustomer(customer);
+		}
+		return false;
+	
+	}
 }

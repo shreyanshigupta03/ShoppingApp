@@ -1,5 +1,6 @@
 package com.app.service;
 import com.app.model.Cart;
+import com.app.model.Customer;
 import com.app.model.Product;
 
 import java.util.List;
@@ -13,7 +14,5 @@ public interface CustomerService {
 	public boolean addProductToCart(String item,String CustomerEmail) throws BussinessException;
 	public List<Product> viewCart(String CustomerEmail) throws BussinessException;
 	public boolean PlaceOrder(String customerEmail) throws BussinessException;
-	
-	
-	
+	public boolean registerCustomer(Customer customer) throws BussinessException;
 }

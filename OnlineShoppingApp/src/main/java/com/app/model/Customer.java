@@ -38,18 +38,10 @@ public class Customer {
 		this.customerPassword = password;
 	}
 	
-	public Customer(int id, String customerFirstName, String customerLastName, String customerEmail, String password) {
-		super();
-		this.id = id;
-		this.customerFirstName = customerFirstName;
-		this.customerLastName = customerLastName;
-		this.customerEmail = customerEmail;
-		this.customerPassword = password;
-	}
 	@Override
 	public String toString() {
 		return "Customer [id=" + id + ", customerFirstName=" + customerFirstName + ", customerLastName="
-				+ customerLastName + ", customerEmail=" + customerEmail + ", password=" + customerPassword + "]";
+				+ customerLastName + ", customerEmail=" + customerEmail + "]";
 	}
 	
 	
