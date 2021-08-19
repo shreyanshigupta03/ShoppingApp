@@ -10,6 +10,7 @@ import com.app.Main;
 import com.app.customer.dao.CustomLoginDao;
 import com.app.customer.dao.impl.CustomerLoginDaoImpl;
 import com.app.exception.BussinessException;
+import com.app.model.Cart;
 import com.app.model.Customer;
 import com.app.model.Product;
 import com.app.service.CustomerService;
@@ -62,7 +63,31 @@ public class CustomerLoginServiceImpl implements CustomerService{
 		}
 		return null;
 	}
+
+	@Override
+	public boolean addProductToCart(String item,String CustomerEmail) throws BussinessException {
+		if (item!=null) {
+			return getCustomLoginDao().addProductToCart(item, CustomerEmail);
+		}
+		return false;
+	}
+
+	@Override
+	public List<Product> viewCart(String CustomerEmail) throws BussinessException{
+		if (CustomerEmail!=null) {
+			return getCustomLoginDao().viewCart(CustomerEmail);
+		}
+		return null;
+	}
+
+	@Override
+	public boolean PlaceOrder(String customerEmail) throws BussinessException {
+		if (customerEmail!=null) {
+			return getCustomLoginDao().PlaceOrder(customerEmail);
+		}
+		return false;
 	
 	
 
+	}
 }

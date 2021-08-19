@@ -8,6 +8,7 @@ import org.apache.log4j.Logger;
 import com.app.customer.dao.CustomLoginDao;
 import com.app.customer.dao.impl.CustomerLoginDaoImpl;
 import com.app.exception.BussinessException;
+import com.app.model.Cart;
 import com.app.model.Product;
 import com.app.service.CustomerService;
 import com.app.service.impl.CustomerLoginServiceImpl;
@@ -21,6 +22,7 @@ public class Main {
 		log.info("Welcome to the Fashion's APP");
 		log.info("========================================");
 		int mainOptions = 0;
+		String customerEmail = "";
 		CustomerService customerService = new CustomerLoginServiceImpl();
 		do {
 			log.info("\nLogin Option:");
@@ -40,7 +42,7 @@ public class Main {
 				log.info("========================================");
 				// log.info("========================================");
 				log.info("Enter the your email:");
-				String customerEmail = scanner.nextLine();
+				customerEmail = scanner.nextLine();
 				if (customerEmail == null) {
 					break;
 				}
@@ -87,11 +89,12 @@ public class Main {
 											for (Product product : pList) {
 
 												log.info("Product ID : " + product.getProductId() + "Product Name : "
-														+ product.getProductName()+"Product Price"+product.getProductPrice());
-												//System.out.println(pList);
+														+ product.getProductName() + "Product Price"
+														+ product.getProductPrice());
+												// System.out.println(pList);
 											}
 										}
-
+										addProductOptions(customerEmail, scanner);
 										break;
 									case 2:
 										log.info("Enter the Price :");
@@ -102,10 +105,12 @@ public class Main {
 											for (Product product : priceList) {
 
 												log.info("Product ID : " + product.getProductId() + " Product Name : "
-														+ product.getProductName()+" Product Price :"+product.getProductPrice());
-												//System.out.println(priceList);
+														+ product.getProductName() + " Product Price :"
+														+ product.getProductPrice());
+												// System.out.println(priceList);
 											}
 										}
+										addProductOptions(customerEmail, scanner);
 										break;
 									case 3:
 										log.info("Thank you for your time,Hope to see you again");
@@ -118,6 +123,39 @@ public class Main {
 
 									}
 								} while (ViewProduct != 3);
+								break;
+							case 2:// view cart
+
+								try {
+									List<Product> productList = customerService.viewCart(customerEmail);
+									log.info("Your Cart : ");
+									for (Product product : productList) {
+
+										log.info("Product Name:" + product.getProductName() + " " + "Product Price:"
+												+ product.getProductPrice());
+
+									}
+
+									log.info("\n1)Do you want to place order:");
+									log.info("2)exit");
+									int placeOrder = 0;
+									placeOrder = Integer.parseInt(scanner.nextLine());
+									switch (placeOrder) {
+									case 1:
+										placeOrder(customerEmail);
+										break;
+
+									case 2:
+										break;
+									}
+
+								} catch (BussinessException e) {
+									// TODO Auto-generated catch block
+									e.printStackTrace();
+								}
+
+								break;
+
 							}
 						} while (CustomerOptions != 3);
 					}
@@ -128,7 +166,7 @@ public class Main {
 				}
 				break;
 			case 2:
-				log.info("Under construction");
+				// log.info("Employee login Under construction");
 
 				break;
 
@@ -148,6 +186,52 @@ public class Main {
 			}
 		} while (mainOptions != 4);
 
+	}
+
+	private static void addProductOptions(String customerEmail, Scanner scanner) {
+		int addProduct = 0;
+		do {
+			log.info("\nSelect the operation on product:");
+			log.info("1)Add product to cart");
+			log.info("2)EXIT");
+			addProduct = Integer.parseInt(scanner.nextLine());
+			switch (addProduct) {
+			case 1:
+
+				log.info("Enter productId seperated By comma(,):");
+				String pids = scanner.nextLine();
+				if (pids == null) {
+					break;
+				} else {
+					CustomerLoginServiceImpl customerLoginServiceImpl = new CustomerLoginServiceImpl();
+					try {
+						customerLoginServiceImpl.addProductToCart(pids, customerEmail);
+					} catch (BussinessException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}
+
+				break;
+			case 2:
+				log.info("2)EXIT");
+
+				break;
+
+			default:
+				break;
+			}
+
+		} while (addProduct != 2);
+
+	}
+
+	private static void placeOrder(String customerEmail) throws BussinessException {
+		CustomerLoginServiceImpl customerLoginServiceImpl = new CustomerLoginServiceImpl();
+		if (customerLoginServiceImpl.PlaceOrder(customerEmail)) {
+			log.info("Your Order is Sucessful");
+		}else
+			log.error("Sorry unable to place your order");
 	}
 
 }

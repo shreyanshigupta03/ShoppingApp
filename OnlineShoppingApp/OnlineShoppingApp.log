@@ -862,3 +862,1449 @@ Search product by:
 [main] 2021-08-19 02:56:37 INFO  com.app.Main  - 2)Product Price
 [main] 2021-08-19 02:56:37 INFO  com.app.Main  - 3)EXIT 
 [main] 2021-08-19 02:56:37 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:17:07 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:17:14 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:17:14 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:17:14 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:17:14 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:17:34 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:17:39 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:17:39 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:17:39 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:17:39 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:17:39 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:17:43 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:17:43 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:17:43 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:17:43 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:17:43 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:17:48 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:17:52 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:17:52 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:17:52 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:22:35 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:22:41 WARN  com.app.Main  - Choose a valid option
+[main] 2021-08-19 17:22:41 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:22:41 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:22:41 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:22:41 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:22:41 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:22:41 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:22:50 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:22:50 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:22:50 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:22:50 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:23:04 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:23:06 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:23:06 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:23:06 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:23:06 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:23:06 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:23:10 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:23:10 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:23:10 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:23:10 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:23:10 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:23:14 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:23:19 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:23:19 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:23:19 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:23:19 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:23:19 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:23:19 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:23:25 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:23:25 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'customerId' in 'field list'
+[main] 2021-08-19 17:23:25 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:23:25 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:23:25 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:25:27 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:25:34 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:25:34 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:25:34 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:25:34 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:25:42 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:25:45 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:25:45 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:25:45 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:25:45 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:25:45 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:25:48 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:25:48 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:25:48 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:25:48 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:25:48 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:25:50 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:25:57 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:25:57 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:25:57 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:25:57 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:25:57 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:25:57 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:26:01 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:26:01 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'customerId' in 'field list'
+[main] 2021-08-19 17:26:01 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:26:01 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:26:01 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:26:59 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:27:04 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:27:04 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:27:04 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:27:04 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:27:15 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:27:40 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:27:40 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:27:40 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:27:40 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:27:40 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:27:42 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:27:42 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:27:42 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:27:42 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:27:42 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:27:44 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:27:46 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:27:46 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:27:46 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:27:56 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:27:56 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:27:56 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:29:09 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:31:17 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:31:20 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:31:20 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:31:20 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:31:20 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:31:28 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:31:30 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:31:30 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:31:30 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:31:30 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:31:30 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:31:33 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:31:33 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:31:33 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:31:33 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:31:33 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:31:34 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:31:37 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:31:37 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:31:37 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:31:37 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:31:37 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:31:37 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:31:39 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:31:39 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'customerId' in 'field list'
+[main] 2021-08-19 17:31:39 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:31:39 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:31:39 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:33:03 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:33:05 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:33:05 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:33:05 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:33:05 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:33:11 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:33:13 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:33:13 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:33:13 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:33:13 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:33:13 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:33:15 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:33:15 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:33:15 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:33:15 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:33:15 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:33:17 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:33:21 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:33:21 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:33:21 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:33:21 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:33:21 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:33:21 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:33:23 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:34:01 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'customerId' in 'field list'
+[main] 2021-08-19 17:34:01 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:34:01 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:34:01 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:36:37 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:36:39 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:36:39 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:36:39 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:36:39 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:36:45 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:36:47 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:36:47 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:36:47 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:36:47 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:36:47 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:36:49 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:36:49 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:36:49 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:36:49 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:36:49 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:36:51 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:36:56 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:36:56 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:36:56 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:36:56 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:36:56 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:36:56 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:36:59 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:37:04 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLException: Column 'customerId' not found.
+[main] 2021-08-19 17:37:04 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:37:04 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:37:04 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:37:55 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:37:57 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:37:57 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:37:57 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:37:57 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:38:03 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:38:05 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:38:05 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:38:05 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:38:05 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:38:05 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:38:06 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:38:06 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:38:06 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:38:06 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:38:06 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:38:08 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:38:09 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:38:09 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:38:09 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:38:09 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:38:09 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:38:09 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:38:12 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:38:14 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLException: Illegal operation on empty result set.
+[main] 2021-08-19 17:38:14 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:38:14 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:38:14 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:39:21 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:39:22 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:39:22 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:39:22 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:39:22 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:39:29 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:39:36 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:39:36 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:39:36 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:39:36 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:39:36 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:39:39 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:39:39 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:39:39 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:39:39 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:39:39 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:39:41 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:39:43 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:39:43 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:39:43 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:39:45 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:39:45 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:39:45 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:39:57 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:47:04 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:47:19 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:47:19 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:47:19 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:47:19 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:47:30 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:47:34 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:47:34 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:47:34 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:47:34 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:47:34 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:47:38 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:47:38 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:47:38 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:47:38 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:47:38 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:47:47 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:47:54 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:47:54 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:47:54 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:47:54 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:47:54 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:47:54 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:48:03 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:48:07 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLException: Illegal operation on empty result set.
+[main] 2021-08-19 17:48:07 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:48:07 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:48:07 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:53:03 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:53:05 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:53:05 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:53:05 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:53:05 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:53:11 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:53:23 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:53:23 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:53:23 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:53:23 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:53:23 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:53:25 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:53:25 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:53:25 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:53:25 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:53:25 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:53:26 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:53:29 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:53:29 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:53:29 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:53:32 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:53:32 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:53:32 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:53:37 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:55:18 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:55:22 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:55:22 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:55:22 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:55:22 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:55:27 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:55:30 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:55:30 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:55:30 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:55:30 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:55:30 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:55:31 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:55:31 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:55:31 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:55:31 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:55:31 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:55:32 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:55:37 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:55:37 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:55:37 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:55:37 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:55:37 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:55:37 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:55:38 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 17:55:41 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLException: Before start of result set
+[main] 2021-08-19 17:55:41 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:55:41 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:55:41 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 17:56:09 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 17:56:26 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:56:26 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 17:56:26 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 17:56:26 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 17:56:31 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 17:56:47 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 17:56:47 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 17:56:47 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 17:56:47 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:56:47 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:56:50 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 17:56:50 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 17:56:50 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 17:56:50 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 17:56:50 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 17:56:53 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 17:56:56 INFO  com.app.Main  - Products found
+[main] 2021-08-19 17:56:56 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 17:56:56 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 17:57:02 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 17:57:02 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 17:57:02 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 17:57:13 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 18:00:12 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:00:12 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:00:12 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:00:27 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:00:27 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 18:00:27 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 18:00:27 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 18:00:27 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:00:27 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:00:34 INFO  com.app.Main  - Thank you for your time,Hope to see you again
+[main] 2021-08-19 18:00:34 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 18:00:34 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 18:00:34 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 18:00:34 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:00:34 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:00:46 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 18:00:46 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 18:00:46 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 18:00:46 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 18:00:46 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 18:00:46 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 18:00:51 INFO  com.app.Main  - Thank you for your time,Hope to see you again
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 18:06:12 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 18:06:15 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:06:15 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 18:06:15 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:06:15 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 18:06:27 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 18:06:30 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 18:06:30 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 18:06:30 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 18:06:30 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 18:06:30 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 18:06:30 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 18:08:38 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 18:08:40 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:08:40 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 18:08:40 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:08:40 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 18:08:54 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 18:08:57 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 18:08:57 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 18:08:57 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 18:08:57 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:08:57 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:08:59 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 18:08:59 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 18:08:59 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 18:08:59 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:08:59 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:09:04 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 18:09:09 INFO  com.app.Main  - Products found
+[main] 2021-08-19 18:09:09 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 18:09:09 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 18:09:09 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:09:09 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:09:09 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:09:15 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 18:09:39 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'customerId' in 'field list'
+[main] 2021-08-19 18:09:39 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:09:39 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:09:39 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 18:11:06 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 18:11:08 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:11:08 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 18:11:08 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:11:08 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 18:11:15 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 18:11:17 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 18:11:17 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 18:11:17 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 18:11:17 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:11:17 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:11:20 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 18:11:20 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 18:11:20 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 18:11:20 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:11:20 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:11:25 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 18:11:29 INFO  com.app.Main  - Products found
+[main] 2021-08-19 18:11:29 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5000
+[main] 2021-08-19 18:11:29 INFO  com.app.Main  - Product ID : 0Product Name : phoneProduct Price5001
+[main] 2021-08-19 18:11:29 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:11:29 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:11:29 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:11:32 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 18:11:36 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:11:36 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:11:36 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:12:11 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:12:11 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 18:12:11 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 18:12:11 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 18:12:11 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:12:11 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:12:15 INFO  com.app.Main  - Enter the Price :
+[main] 2021-08-19 18:12:19 INFO  com.app.Main  - Products found
+[main] 2021-08-19 18:12:19 INFO  com.app.Main  - Product ID : 1 Product Name : phone Product Price :5000
+[main] 2021-08-19 18:12:19 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:12:19 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:12:19 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:12:29 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 18:12:35 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:12:35 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:12:35 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 18:13:44 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 18:13:46 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:13:46 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 18:13:46 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 18:13:46 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 18:13:51 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 18:13:54 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 18:13:54 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 18:13:54 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 18:13:54 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:13:54 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:13:56 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 18:13:56 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 18:13:56 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 18:13:56 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:13:56 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:13:58 INFO  com.app.Main  - Enter the Price :
+[main] 2021-08-19 18:14:05 INFO  com.app.Main  - Products found
+[main] 2021-08-19 18:14:05 INFO  com.app.Main  - Product ID : 1 Product Name : phone Product Price :5000
+[main] 2021-08-19 18:14:05 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:14:05 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:14:05 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:14:08 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:14:08 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 18:14:08 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 18:14:08 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 18:14:08 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 18:14:08 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 18:14:10 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 18:14:14 INFO  com.app.Main  - Products found
+[main] 2021-08-19 18:14:14 INFO  com.app.Main  - Product ID : 1Product Name : phoneProduct Price5000
+[main] 2021-08-19 18:14:14 INFO  com.app.Main  - Product ID : 2Product Name : phoneProduct Price5001
+[main] 2021-08-19 18:14:14 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 18:14:14 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 18:14:14 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 18:14:21 INFO  com.app.Main  - Enter productId seperated By comma(,):
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 19:31:40 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 19:31:43 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:31:43 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 19:31:43 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:31:43 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 19:31:53 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 19:31:55 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:31:55 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:31:55 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:31:55 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:31:55 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:31:58 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 19:31:58 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 19:31:58 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 19:31:58 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:31:58 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:32:01 INFO  com.app.Main  - Enter the name of the product to be searched
+[main] 2021-08-19 19:32:16 INFO  com.app.Main  - Products found
+[main] 2021-08-19 19:32:16 INFO  com.app.Main  - Product ID : 1Product Name : phoneProduct Price5000
+[main] 2021-08-19 19:32:16 INFO  com.app.Main  - Product ID : 2Product Name : phoneProduct Price5001
+[main] 2021-08-19 19:32:16 INFO  com.app.Main  - 
+Select the operation on product:
+[main] 2021-08-19 19:32:16 INFO  com.app.Main  - 1)Add product to cart
+[main] 2021-08-19 19:32:16 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 19:32:20 INFO  com.app.Main  - 2)EXIT
+[main] 2021-08-19 19:32:20 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-19 19:32:20 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-19 19:32:20 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-19 19:32:20 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:32:20 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:32:22 INFO  com.app.Main  - Thank you for your time,Hope to see you again
+[main] 2021-08-19 19:32:22 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:32:22 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:32:22 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:32:22 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:32:22 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:32:24 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:32:24 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:32:24 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:32:24 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:32:24 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 19:35:41 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 19:36:02 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 19:36:07 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:36:07 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 19:36:07 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:36:07 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 19:36:12 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 19:36:14 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:36:14 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:36:14 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:36:14 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:36:14 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:36:17 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLException: Before start of result set
+[main] 2021-08-19 19:36:17 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:36:17 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:36:17 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:36:17 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:36:17 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 19:38:35 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 19:38:37 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:38:37 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 19:38:37 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:38:37 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 19:38:44 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 19:38:46 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:38:46 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:38:46 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:38:46 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:38:46 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:38:58 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLException: Before start of result set
+[main] 2021-08-19 19:38:58 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:38:58 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:38:58 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:38:58 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:38:58 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:41:27 ERROR com.app.customer.dao.impl.CustomerLoginDaoImpl  - java.sql.SQLException: Before start of result set
+[main] 2021-08-19 19:41:27 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:41:27 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:41:27 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:41:27 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:41:27 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 19:41:44 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 19:41:47 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:41:47 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 19:41:47 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 19:41:47 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 19:41:58 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 19:42:01 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:42:01 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:42:01 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:42:01 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:42:01 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=earphone, productPrice=2000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=earphone, productPrice=2000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - Product [productId=0, productName=phone, productPrice=5000]
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 19:42:04 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 22:51:47 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 22:51:53 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:51:53 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 22:51:53 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:51:53 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 22:52:04 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 22:52:08 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:52:08 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:52:08 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:52:08 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:52:08 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - earphone2000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - earphone2000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:52:12 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 22:52:43 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 22:52:46 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:52:46 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 22:52:46 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:52:46 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 22:52:52 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 22:52:55 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:52:55 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:52:55 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:52:55 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:52:55 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - earphone2000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - earphone2000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - phone5000
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:52:58 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 22:53:23 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 22:53:27 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:53:27 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 22:53:27 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:53:27 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 22:53:34 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 22:53:36 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:53:36 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:53:36 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:53:36 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:53:36 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - earphone 2000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - earphone 2000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:53:39 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 22:55:45 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 22:55:49 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:55:49 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 22:55:49 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:55:49 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 22:55:55 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 22:55:58 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:55:58 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:55:58 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:55:58 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:55:58 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - earphone 2000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - earphone 2000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - Product Name Product Price
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - phone 5000
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:56:00 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 22:57:04 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 22:57:09 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:57:09 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 22:57:09 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:57:09 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 22:57:16 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 22:57:19 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 22:57:19 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 22:57:19 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 22:57:19 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 22:57:19 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 22:57:19 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 22:57:30 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:57:30 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 22:57:30 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:57:30 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 22:57:37 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 22:57:39 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:57:39 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:57:39 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:57:39 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:57:39 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:earphone Product Price:2000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:earphone Product Price:2000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - Product Nmae:phone Product Price:5000
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:57:45 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 22:59:12 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 22:59:16 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:59:16 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 22:59:16 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 22:59:16 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 22:59:23 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 22:59:26 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:59:26 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:59:26 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:59:26 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:59:26 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 22:59:28 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 23:04:00 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 23:04:05 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:04:05 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 23:04:05 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:04:05 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 23:04:10 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 23:04:13 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 23:04:13 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 23:04:13 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 23:04:13 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 23:04:13 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 23:04:15 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 23:08:32 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 23:08:41 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 23:08:56 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:08:56 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 23:08:56 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:08:56 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 23:09:04 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 23:09:07 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 23:09:07 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 23:09:07 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 23:09:07 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 23:09:07 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 23:09:09 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-19 23:22:10 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-19 23:22:16 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:22:16 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-19 23:22:16 INFO  com.app.Main  - ========================================
+[main] 2021-08-19 23:22:16 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-19 23:22:26 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-19 23:22:30 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 23:22:30 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 23:22:30 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 23:22:30 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 23:22:30 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-19 23:22:33 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 01:52:06 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 01:52:10 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:52:10 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 01:52:10 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:52:10 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 01:52:16 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 01:52:19 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 01:52:19 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 01:52:19 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 01:52:19 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 01:52:19 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 01:52:23 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 01:52:29 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 01:52:29 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 01:52:29 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 01:52:29 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 01:52:29 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 01:54:12 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 01:54:15 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:54:15 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 01:54:15 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 01:54:15 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 01:54:20 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 01:54:31 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 01:54:31 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 01:54:31 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 01:54:31 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 01:54:31 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 01:54:37 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 01:54:47 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 02:05:19 ERROR com.app.Main  - Sorry unable to place your order
+[main] 2021-08-20 02:05:19 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 02:05:19 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 02:05:19 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 02:05:19 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 02:05:19 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 02:05:35 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 02:05:35 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 02:05:35 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 02:05:35 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 02:05:35 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 02:05:35 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 02:05:39 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:05:39 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 02:05:39 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:05:39 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 02:05:46 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 02:05:52 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 02:05:52 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 02:05:52 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 02:05:52 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 02:05:52 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 02:05:58 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 02:06:06 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 02:06:42 ERROR com.app.Main  - Sorry unable to place your order
+[main] 2021-08-20 02:06:42 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 02:06:42 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 02:06:42 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 02:06:42 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 02:06:42 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 02:09:31 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 02:09:36 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 02:09:55 INFO  com.app.Main  - Your Order is Sucessful
+[main] 2021-08-20 02:09:55 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 02:09:55 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 02:09:55 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 02:09:55 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 02:09:55 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 02:10:39 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - Welcome to the Fashion's APP
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 02:10:56 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 02:11:00 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:11:00 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 02:11:00 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 02:11:00 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 02:11:10 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 02:11:14 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 02:11:14 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 02:11:14 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 02:11:14 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 02:11:14 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 02:11:16 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 02:11:32 INFO  com.app.Main  - Your Order is Sucessful
+[main] 2021-08-20 02:11:32 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 02:11:32 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 02:11:32 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 02:11:32 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 02:11:32 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 02:11:40 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-20 02:11:40 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-20 02:11:40 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-20 02:11:40 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 02:11:40 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
