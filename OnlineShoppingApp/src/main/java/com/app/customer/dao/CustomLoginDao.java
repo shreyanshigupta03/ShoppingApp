@@ -15,6 +15,7 @@ public interface CustomLoginDao {
 	public List<Product> viewCart(String CustomerEmail) throws BussinessException;
 	public boolean PlaceOrder(String customerEmail) throws BussinessException;
 	public boolean registerCustomer(Customer customer) throws BussinessException;
+	public int totalInCart(String customerEmail) throws BussinessException;
 
 
 }

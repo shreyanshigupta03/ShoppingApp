@@ -14,6 +14,7 @@ import com.app.employee.dao.impl.EmployeeLoginDaoImpl;
 import com.app.exception.BussinessException;
 import com.app.model.Cart;
 import com.app.model.Customer;
+import com.app.model.Order;
 import com.app.model.Product;
 import com.app.service.CustomerService;
 import com.app.service.EmployeeService;
@@ -69,4 +70,18 @@ public class EmployeeLoginServiceImpl implements EmployeeService{
 		return false;
 	}
 
-}
+	@Override
+	public boolean changeOrderStatus(String order) throws BussinessException {
+		if (order!=null) {
+			return getEmployeeLoginDao().changeOrderStatus(order);	
+		}
+		return false;
+	}
+
+	@Override
+	public List<Order> viewOrders() throws BussinessException {
+			return getEmployeeLoginDao().viewOrders();
+	}
+	}
+
+

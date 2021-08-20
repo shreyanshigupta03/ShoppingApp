@@ -99,4 +99,13 @@ public class CustomerLoginServiceImpl implements CustomerService{
 		return false;
 	
 	}
+
+	@Override
+	public int totalInCart(String customerEmail) throws BussinessException {
+		if (customerEmail!=null) {
+			return getCustomLoginDao().totalInCart(customerEmail);
+		}
+		return 0;
+	
+	}
 }

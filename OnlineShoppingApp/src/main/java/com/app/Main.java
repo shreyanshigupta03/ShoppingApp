@@ -11,6 +11,7 @@ import com.app.customer.dao.impl.CustomerLoginDaoImpl;
 import com.app.exception.BussinessException;
 import com.app.model.Cart;
 import com.app.model.Customer;
+import com.app.model.Order;
 import com.app.model.Product;
 import com.app.service.CustomerService;
 import com.app.service.impl.CustomerLoginServiceImpl;
@@ -22,7 +23,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		log.info("========================================");
-		log.info("Welcome to the Fashion's APP");
+		log.info("Welcome to the Gadget APP");
 		log.info("========================================");
 		int mainOptions = 0;
 		String customerEmail = "";
@@ -68,7 +69,7 @@ public class Main {
 							}
 
 							switch (CustomerOptions) {
-							case 1:
+							case 1:// customer view product
 								int ViewProduct = 0;
 								do {
 									log.info("\nSearch product by:");
@@ -83,7 +84,7 @@ public class Main {
 									}
 
 									switch (ViewProduct) {
-									case 1:
+									case 1:// searching a product by name
 										log.info("Enter the name of the product to be searched");
 										String name = scanner.nextLine();
 										List<Product> pList = customerService.getProductByName(name);
@@ -99,7 +100,7 @@ public class Main {
 										}
 										addProductOptions(customerEmail, scanner);
 										break;
-									case 2:
+									case 2:// searching a product by price
 										log.info("Enter the Price :");
 										String productPrice = scanner.nextLine();
 										List<Product> priceList = customerService.getProductByPrice(productPrice);
@@ -138,6 +139,7 @@ public class Main {
 												+ product.getProductPrice());
 
 									}
+									totalInCart(customerEmail);
 
 									log.info("\n1)Do you want to place order:");
 									log.info("2)exit");
@@ -230,10 +232,10 @@ public class Main {
 									log.info("5)Exit");
 
 									searchOptionsEmp = Integer.parseInt(scanner.nextLine());
-									EmployeeLoginServiceImpl emImpl= new EmployeeLoginServiceImpl();
+									EmployeeLoginServiceImpl emImpl = new EmployeeLoginServiceImpl();
 									switch (searchOptionsEmp) {
 									case 1:
-										//Search by Name
+										// Search by Name
 										log.info("Enter Customer Name : <FisrtName> <LastName>");
 										try {
 											for (Customer customer : emImpl.getCustomerByName(scanner.nextLine())) {
@@ -246,7 +248,7 @@ public class Main {
 										break;
 
 									case 2:
-										//Search by Id
+										// Search by Id
 										log.info("Enter Customer ID : ");
 										try {
 											for (Customer customer : emImpl.getCustomerById(scanner.nextLine())) {
@@ -256,10 +258,10 @@ public class Main {
 											// TODO Auto-generated catch block
 											log.error("Customer Id not Found");
 										}
-									
+
 										break;
 									case 3:
-										//Search by Email
+										// Search by Email
 										log.info("Enter Customer Email : ");
 										try {
 											for (Customer customer : emImpl.getCustomerByEmail(scanner.nextLine())) {
@@ -269,10 +271,10 @@ public class Main {
 											// TODO Auto-generated catch block
 											log.error("Customer Email not Found");
 										}
-									
+
 										break;
 									case 4:
-										//Search by OrderId
+										// Search by OrderId
 										log.info("Enter Customer OrderId : ");
 										try {
 											for (Customer customer : emImpl.getCustomerByOrderId(scanner.nextLine())) {
@@ -282,10 +284,10 @@ public class Main {
 											// TODO Auto-generated catch block
 											log.error("Customer OrderID not Found");
 										}
-									
+
 										break;
 									case 5:
-										//exit
+										// exit
 										break;
 									}
 
@@ -293,7 +295,32 @@ public class Main {
 								break;
 							case 3:
 								// Change Order status
-								break;
+								EmployeeLoginServiceImpl emImpl= new EmployeeLoginServiceImpl();
+								try {
+									for (Order order : emImpl.viewOrders()) {
+										
+										log.info("OrderID : "+ order.getOrderId()+" OrderStatus : "+ order.getStatus());
+									}
+								} catch (BussinessException e) {
+									log.error(e);
+								}
+								log.info("Enter the orderId for which status needs to be updated as , seperated");
+								String order=scanner.nextLine();
+								try {
+									
+									if (emImpl.changeOrderStatus(order)) {
+										for (Order orderUpdated : emImpl.viewOrders()) {
+											
+											log.info("OrderID : "+ orderUpdated.getOrderId()+" OrderStatus : "+ orderUpdated.getStatus());
+										}
+										log.info("Orders status updated");
+												}
+								
+								} catch (BussinessException e) {
+									log.error(e);
+								}
+								
+								
 							case 4:
 								// Exit
 								break;
@@ -321,11 +348,11 @@ public class Main {
 				try {
 					if (customerService.registerCustomer(c)) {
 						log.info("Customer Registration Successful");
-					}	
+					}
 				} catch (BussinessException e) {
 					log.error(e);
 				}
-			
+
 				break;
 
 			case 4:
@@ -385,6 +412,15 @@ public class Main {
 			log.info("Your Order is Sucessful");
 		} else
 			log.error("Sorry unable to place your order");
+	}
+
+	private static int totalInCart(String customerEmail) throws BussinessException {
+		CustomerLoginServiceImpl customerLoginServiceImpl = new CustomerLoginServiceImpl();
+		int total = customerLoginServiceImpl.totalInCart(customerEmail);
+		if (customerLoginServiceImpl.totalInCart(customerEmail) != 0) {
+			log.info("Total:" + total);
+		}
+		return total;
 	}
 
 }

@@ -233,4 +233,34 @@ public class CustomerLoginDaoImpl implements CustomLoginDao {
 
 		}
 	}
+
+	@Override
+	public int totalInCart(String customerEmail) throws BussinessException {
+		int total = 0;
+		Product total1 = null;
+		try (Connection connection = MysqlDbconnection.getConnection()) {
+			String sq = "select id from customer where customerEmail=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sq);
+			preparedStatement.setString(1, customerEmail);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			resultSet.next();
+
+			String sql = "select productPrice " + "from cart join product " + "on cart.productId=product.productId "
+					+ "where cart.id=?";
+			PreparedStatement preparedStatement1 = connection.prepareStatement(sql);
+			preparedStatement1.setInt(1, resultSet.getInt("id"));
+			// preparedStatement1.setInt(2, resultSet.getInt("productId"));
+			ResultSet resultSet1 = preparedStatement1.executeQuery();
+			while (resultSet1.next()) {
+				total = total + Integer.parseInt(resultSet1.getString("productPrice"));
+
+			}
+			return total;
+		} catch (ClassNotFoundException | SQLException e) {
+			log.error(e);
+			throw new BussinessException("Internal error occured contact sysadmin");
+
+		}
+
+	}
 }

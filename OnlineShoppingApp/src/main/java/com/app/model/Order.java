@@ -4,6 +4,7 @@ public class Order {
 	private int cartId;
 	private int orderId;
 	private int OrderProductId;
+	private String status;
 	public int getCartId() {
 		return cartId;
 	}
@@ -22,9 +23,18 @@ public class Order {
 	public void setOrderProductId(int orderProductId) {
 		OrderProductId = orderProductId;
 	}
+	
+	
+	public String getStatus() {
+		return status;
+	}
+	public void setStatus(String status) {
+		this.status = status;
+	}
 	@Override
 	public String toString() {
-		return "Order [cartId=" + cartId + ", orderId=" + orderId + ", OrderProductId=" + OrderProductId + "]";
+		return "Order [cartId=" + cartId + ", orderId=" + orderId + ", OrderProductId=" + OrderProductId + ", status="
+				+ status + "]";
 	}
 
 }

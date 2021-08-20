@@ -5,6 +5,7 @@ import java.util.List;
 import com.app.exception.BussinessException;
 import com.app.model.Cart;
 import com.app.model.Customer;
+import com.app.model.Order;
 import com.app.model.Product;
 
 public interface EmployeeLoginDao {
@@ -13,5 +14,7 @@ public interface EmployeeLoginDao {
 	public List<Customer> getCustomerByEmail(String productPrice) throws BussinessException;
 	public List<Customer> getCustomerByOrderId(String productPrice) throws BussinessException;
 	public boolean addProduct(List<Product> products) throws BussinessException;
+	public boolean changeOrderStatus(String orders)throws BussinessException;
+	List<Order> viewOrders() throws BussinessException;
 
 }

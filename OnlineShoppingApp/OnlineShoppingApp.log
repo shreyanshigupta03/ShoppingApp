@@ -2875,3 +2875,502 @@ Login Option:
 [main] 2021-08-20 04:07:47 INFO  com.app.Main  - 3)Register a new User
 [main] 2021-08-20 04:07:47 INFO  com.app.Main  - 4)EXIT 
 [main] 2021-08-20 04:07:47 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 10:31:30 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 10:31:33 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:31:33 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 10:31:33 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:31:33 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 10:31:41 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 10:31:44 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 10:31:44 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 10:31:44 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 10:31:44 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 10:31:44 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Total:27000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Total:27000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Total:27000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Total:27000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Total:27000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - Total:27000
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 10:31:46 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 10:32:49 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 10:32:52 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 10:32:59 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 10:32:59 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 10:32:59 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 10:32:59 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 10:32:59 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 10:32:59 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 10:33:10 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:33:10 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 10:33:10 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:33:10 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 10:33:18 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 10:33:21 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:33:21 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 10:33:21 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:33:21 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 10:33:33 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 10:33:36 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 10:33:36 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 10:33:36 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 10:33:36 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 10:33:36 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Total:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Total:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Total:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Total:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Total:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - Total:5000
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 10:33:39 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 10:34:56 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 10:34:58 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:34:58 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 10:34:58 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 10:34:58 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 10:35:07 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 10:35:10 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 10:35:10 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 10:35:10 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 10:35:10 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 10:35:10 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Your Cart : 
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Product Name:earphone Product Price:2000
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Product Name:phone Product Price:5000
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - Total:27000
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - 
+1)Do you want to place order:
+[main] 2021-08-20 10:35:14 INFO  com.app.Main  - 2)exit
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 11:56:55 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 11:56:59 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 11:57:05 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 11:57:08 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 11:57:08 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 11:57:08 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 11:57:08 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 11:57:08 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 11:57:08 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 11:57:13 ERROR com.app.employee.dao.impl.EmployeeLoginDaoImpl  - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Order' at line 1
+[main] 2021-08-20 11:57:13 ERROR com.app.Main  - com.app.exception.BussinessException: Internal error occured contact sysadmin
+[main] 2021-08-20 11:57:13 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 11:58:48 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 11:58:53 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 11:58:57 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 11:59:00 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 11:59:00 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 11:59:00 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 11:59:00 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 11:59:00 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 11:59:00 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 11:59:51 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 11:59:54 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 12:00:01 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 12:00:03 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 12:00:03 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 12:00:03 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:00:03 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:00:03 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:00:03 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:00:06 INFO  com.app.Main  - OrderID : 18OrderStatus : null
+[main] 2021-08-20 12:00:06 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:00:29 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:00:33 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 12:00:37 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 12:00:38 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 12:00:38 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 12:00:38 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:00:38 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:00:38 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:00:38 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 1OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 2OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 3OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 4OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 5OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 6OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 7OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 8OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 9OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 10OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 11OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 12OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 13OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 14OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 15OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 16OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 17OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - OrderID : 18OrderStatus : null
+[main] 2021-08-20 12:00:42 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:01:21 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:01:21 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:01:21 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:01:21 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 1OrderStatus : shipped
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 2OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 3OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 4OrderStatus : shipped
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 5OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 6OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 7OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 8OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 9OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 10OrderStatus : shipped
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 11OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 12OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 13OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 14OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 15OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 16OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 17OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - OrderID : 18OrderStatus : null
+[main] 2021-08-20 12:03:03 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:03:19 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:03:22 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 12:03:29 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 12:03:30 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 12:03:30 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 12:03:30 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:03:30 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:03:30 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:03:30 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 1 OrderStatus : shipped
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 2 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 3 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 4 OrderStatus : shipped
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 5 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 6 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 7 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 8 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 9 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 10 OrderStatus : shipped
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 11 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 12 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 13 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 14 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 15 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 16 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 17 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - OrderID : 18 OrderStatus : null
+[main] 2021-08-20 12:03:39 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:03:59 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:03:59 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:03:59 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:03:59 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:05:59 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:06:02 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 12:06:09 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 12:06:11 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 12:06:11 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 12:06:11 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:06:11 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:06:11 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:06:11 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 1 OrderStatus : shipped
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 2 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 3 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 4 OrderStatus : shipped
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 5 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 6 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 7 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 8 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 9 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 10 OrderStatus : shipped
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 11 OrderStatus : shipped
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 12 OrderStatus : shipped
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 13 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 14 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 15 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 16 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 17 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - OrderID : 18 OrderStatus : null
+[main] 2021-08-20 12:06:31 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:06:49 INFO  com.app.Main  - Orders status updated
+[main] 2021-08-20 12:06:49 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:06:49 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:06:49 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:06:49 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:07:32 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:07:42 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:07:44 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 12:07:49 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 12:07:51 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 12:07:51 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 12:07:51 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:07:51 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:07:51 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:07:51 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 1 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 2 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 3 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 4 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 5 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 6 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 7 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 8 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 9 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 10 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 11 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 12 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 13 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 14 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 15 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 16 OrderStatus : null
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 17 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - OrderID : 18 OrderStatus : shipped
+[main] 2021-08-20 12:07:55 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:10:37 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:10:41 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 12:10:46 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 12:10:48 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 12:10:48 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 12:10:48 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:10:48 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:10:48 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:10:48 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 1 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 2 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 3 OrderStatus : null
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 4 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 5 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 6 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 7 OrderStatus : null
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 8 OrderStatus : null
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 9 OrderStatus : null
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 10 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 11 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 12 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 13 OrderStatus : null
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 14 OrderStatus : null
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 15 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 16 OrderStatus : null
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 17 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - OrderID : 18 OrderStatus : shipped
+[main] 2021-08-20 12:10:52 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - Welcome to the Gadget APP
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:12:21 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:12:24 INFO  com.app.Main  - Enter Employee mail id
+[main] 2021-08-20 12:12:31 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-20 12:12:33 INFO  com.app.Main  - Emplyee Login Sucessful
+[main] 2021-08-20 12:12:33 INFO  com.app.Main  - Enter your Choice
+[main] 2021-08-20 12:12:33 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:12:33 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:12:33 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:12:33 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 1 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 2 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 3 OrderStatus : null
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 4 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 5 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 6 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 7 OrderStatus : null
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 8 OrderStatus : null
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 9 OrderStatus : null
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 10 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 11 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 12 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 13 OrderStatus : null
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 14 OrderStatus : null
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 15 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 16 OrderStatus : null
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 17 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - OrderID : 18 OrderStatus : shipped
+[main] 2021-08-20 12:12:36 INFO  com.app.Main  - Enter the orderId for which status needs to be updated as , seperated
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 1 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 2 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 3 OrderStatus : null
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 4 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 5 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 6 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 7 OrderStatus : null
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 8 OrderStatus : null
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 9 OrderStatus : null
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 10 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 11 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 12 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 13 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 14 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 15 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 16 OrderStatus : null
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 17 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - OrderID : 18 OrderStatus : shipped
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - Orders status updated
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - 1)Add Product
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - 2)Search Customer
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - 3)Change order status
+[main] 2021-08-20 12:12:42 INFO  com.app.Main  - 4)Exit
+[main] 2021-08-20 12:13:03 INFO  com.app.Main  - 
+Login Option:
+[main] 2021-08-20 12:13:03 INFO  com.app.Main  - 1)Login as Customer
+[main] 2021-08-20 12:13:03 INFO  com.app.Main  - 2)Login as Employee
+[main] 2021-08-20 12:13:03 INFO  com.app.Main  - 3)Register a new User
+[main] 2021-08-20 12:13:03 INFO  com.app.Main  - 4)EXIT 
+[main] 2021-08-20 12:13:03 INFO  com.app.Main  - ENTER YOUR CHOICE(1-4):
+[main] 2021-08-20 12:13:09 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:13:09 INFO  com.app.Main  - Welcome to Customer Login
+[main] 2021-08-20 12:13:09 INFO  com.app.Main  - ========================================
+[main] 2021-08-20 12:13:09 INFO  com.app.Main  - Enter the your email:
+[main] 2021-08-20 12:13:19 INFO  com.app.Main  - Enter your Password:
+[main] 2021-08-20 12:13:23 INFO  com.app.Main  - 
+Hey customer
+[main] 2021-08-20 12:13:23 INFO  com.app.Main  - 1)View Product
+[main] 2021-08-20 12:13:23 INFO  com.app.Main  - 2)View Cart
+[main] 2021-08-20 12:13:23 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 12:13:23 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 12:13:29 INFO  com.app.Main  - 
+Search product by:
+[main] 2021-08-20 12:13:29 INFO  com.app.Main  - 1)Product Name
+[main] 2021-08-20 12:13:29 INFO  com.app.Main  - 2)Product Price
+[main] 2021-08-20 12:13:29 INFO  com.app.Main  - 3)EXIT 
+[main] 2021-08-20 12:13:29 INFO  com.app.Main  - ENTER YOUR CHOICE(1-3):
+[main] 2021-08-20 12:13:35 INFO  com.app.Main  - Enter the name of the product to be searched

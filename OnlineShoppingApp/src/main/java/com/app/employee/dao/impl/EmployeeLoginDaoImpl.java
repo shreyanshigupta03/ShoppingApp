@@ -178,4 +178,54 @@ public class EmployeeLoginDaoImpl implements EmployeeLoginDao {
 
 	}
 
-}
+	
+	@Override
+	public List<Order> viewOrders() throws BussinessException {
+	List<Order> orders=new ArrayList<>();
+	Order order=null;
+	try (Connection connection = MysqlDbconnection.getConnection()) {
+		String sql = "Select orderId ,orderStatus from shopping_app.order";
+		PreparedStatement preparedStatement = connection.prepareStatement(sql);
+		ResultSet resultSet = preparedStatement.executeQuery();
+		while (resultSet.next()) {
+			order= new Order();
+			order.setStatus(resultSet.getString("orderStatus"));
+			order.setOrderId(resultSet.getInt("orderId"));
+			orders.add(order);
+			
+		}
+		//preparedStatement.setString(1, order);
+	
+		return orders;
+	} catch (ClassNotFoundException | SQLException e) {
+		log.error(e);
+		throw new BussinessException("Internal error occured contact sysadmin");
+
+	}
+
+
+	}
+	
+	@Override
+	public boolean changeOrderStatus(String order) throws BussinessException {
+	
+		String orderIds[] = order.split(",");
+		
+		try (Connection connection = MysqlDbconnection.getConnection()) {
+		String sql = "UPDATE shopping_app.order SET orderStatus = 'shipped' WHERE (orderId = ?)";
+		PreparedStatement preparedStatement = connection.prepareStatement(sql);
+		for (String orderID : orderIds) {
+			preparedStatement.setInt(1,Integer.parseInt(orderID));
+			preparedStatement.executeUpdate();
+		}
+		//preparedStatement.setString(1, order);
+		return true;
+	} catch (ClassNotFoundException | SQLException e) {
+		log.error(e);
+		throw new BussinessException("Internal error occured contact sysadmin");
+
+	}
+
+
+	}
+	}
